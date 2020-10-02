@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Sat May 23 16:50:56 PDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0172-43f2-5d92-00000e811cd8 
+on database directory C:\Users\Pedro Longo\Desktop\JavaHowToProgram11e_LateObjects-master\examples\ch24\books_examples\books with class loader sun.misc.Launcher$AppClassLoader@60e53b93 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_112/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_112-b15
+user.dir=C:\Users\Pedro Longo\Desktop\JavaHowToProgram11e_LateObjects-master\examples\ch24\books_examples
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat May 23 16:52:41 PDT 2020: Shutting down Derby engine
+----------------------------------------------------------------
+Sat May 23 16:52:41 PDT 2020:
+Shutting down instance a816c00e-0172-43f2-5d92-00000e811cd8 on database directory C:\Users\Pedro Longo\Desktop\JavaHowToProgram11e_LateObjects-master\examples\ch24\books_examples\books with class loader sun.misc.Launcher$AppClassLoader@60e53b93 
+----------------------------------------------------------------
